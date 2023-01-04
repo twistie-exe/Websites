@@ -11,3 +11,5 @@ These websites will keep being updated until the website is fully finished.
 # Note
 If you fork these please know that these are remakes of current sites/followed tutorials and I do not
 own any of them, anything that happens to you is not my responsibility.
+
+But I will mostly be commiting to a private repo for remaking companies.
